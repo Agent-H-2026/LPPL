@@ -5,5 +5,5 @@
 !.gitignore
 !data/
 !data/**
-!*.py
-!*.ipynb
+!python/
+!python/**
