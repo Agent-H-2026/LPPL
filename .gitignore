@@ -8,4 +8,5 @@
 !data/**
 !python/
 !python/**
+!result/
 !result/**
